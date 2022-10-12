@@ -1,0 +1,32 @@
+.contact-section {
+    background-color: #bcd2e0;
+    padding-top: 125px;
+}
+
+.nav-item {
+    display: inline-block;
+}
+
+.nav-item {
+    transition: all .3s ease 0s;
+}
+.nav-item:hover {
+    background-color: #335063;
+    border-radius: 5px;
+    padding: 4px 9px;
+}
+
+.navbar {
+    height: 60px;
+}
+
+.card {
+
+}
+
+.card-img-top {
+    width: 90%;
+    padding-top: 0px;
+    display: inline-block;
+    padding-bottom: 0%;
+}

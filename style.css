@@ -1,0 +1,32 @@
+body {
+    min-height: 800px;
+}
+
+.jumbotron {
+    background-color: #bcd2e0;
+    padding: 165px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.about-section {
+    padding-top: 60px;
+}
+
+.nav-item {
+    display: inline-block;
+}
+
+.nav-item {
+    transition: all .3s ease 0s;
+}
+.nav-item:hover {
+    background-color: #335063;
+    border-radius: 5px;
+    padding: 4px 9px;
+}
+
+.navbar {
+    height: 60px;
+}
